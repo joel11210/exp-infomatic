@@ -1,0 +1,21 @@
+
+.f1{
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+
+.container .a1 {
+    text-decoration: none;
+    color: #000;
+}
+
+.menu{
+    background-color: rgb(155, 231, 245);
+    height: auto;
+}
+
+.btn1{
+    border: none;
+    background: none;
+}
+
